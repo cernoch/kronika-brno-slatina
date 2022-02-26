@@ -2,7 +2,7 @@ Kronika MČ Brno-Slatina
 =======================
 
 | Rok  | E-book (nižší kvalita fotografií)          | Verze pro tisk                                |
-|:----:|:------------------------------------------:|:---------------------------------------------:|
+|:-----|:-------------------------------------------|:----------------------------------------------|
 | 2020 | [PDF](pdf/Kronika2020-ebook.pdf)  (5.3 MB) | [PDF](pdf/Kronika2020-prepress.pdf) (18.7 MB) |
 | 2019 | [PDF](pdf/Kronika2019-ebook.pdf)  (3.5 MB) | [PDF](pdf/Kronika2019-prepress.pdf) (11.1 MB) |
 | 2018 | [PDF](pdf/Kronika2018-ebook.pdf)  (4.1 MB) | [PDF](pdf/Kronika2018-prepress.pdf) (15.5 MB) |
