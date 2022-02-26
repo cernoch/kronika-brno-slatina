@@ -19,5 +19,7 @@ Kronika MČ Brno-Slatina
 | 2007 | [PDF](pdf/Kronika2007-screen.pdf) (1.0 MB) | [PDF](pdf/Kronika2007.pdf)          (25.9 MB) |
 | 2006 | [PDF](pdf/Kronika2006.pdf)        (0.7 MB) |                                               |
 | 2005 | [PDF](pdf/Kronika2005.pdf)        (0.6 MB) |                                               |
+| 2004 | [PDF](pdf/Kronika2004.pdf)        (0.4 MB) |                                               |
+| 2003 | [PDF](pdf/Kronika2003.pdf)        (0.2 MB) |                                               |
 
 Repozitář slouží jako záloha stránky [Kronika z webu Slatinského historického klubu](http://historickyklub.g6.cz/kronika/).
